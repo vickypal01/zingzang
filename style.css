@@ -1,0 +1,33 @@
+h1{
+    color: rgb(243, 6, 172);
+}
+#login{
+    background-color: aqua;
+}
+#sign{
+    background-color: #dd9a9a;
+}
+#info{
+    background-color: blueviolet;
+}
+#check{
+    background-color: brown;
+}
+#select{
+    background-color: rgb(66, 105, 235);
+}
+#textA{
+    background-color: crimson;
+}
+#main{
+    background-color: greenyellow;
+    border: 5px solid black;
+    margin: 4px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+#smain{
+    display: flex;
+}
